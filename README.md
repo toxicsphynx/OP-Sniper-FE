@@ -1,2 +1,1 @@
-# OP-Sniper-FE
-this is for script builders only
+hi if u are reading this, this is only for script builders so umm yeah bye
